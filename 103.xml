@@ -631,7 +631,15 @@
                   </bibl>
                </bibl>
                <bibl xml:id="bib103-24">
-                  <ERROR>Unrecognized Armenian editor</ERROR>
+                  <author ref="https://medievalmideast.org/person/13263">Melk‘isēdek</author>
+                  <editor>L. S. Khach‘ikyan</editor>
+                  <title xml:lang="hy-Latn">XIV Dari Hayeren Dzeṛagreri Hishatakaranner</title>
+                  <pubPlace>Yerevan</pubPlace>
+                  <publisher>Haykakan SSṚ Gitut‘yunneri Akademiayi Hratarakch‘ut‘yun</publisher>
+                  <date>1950</date>
+                  <ptr target="http://medievalmideast.org/bibl/24"/>
+                  <citedRange unit="entry">no. 379a</citedRange>
+                  <citedRange unit="page">pp. 306-307</citedRange>
                   <textLang>Armenian</textLang>
                   <bibl>
                      <editor role="translator">Avedis K. Sanjian</editor>
@@ -640,7 +648,7 @@
                      <publisher>Harvard University Press</publisher>
                      <date>1969</date>
                      <ptr target="http://medievalmideast.org/bibl/12"/>
-                     <citedRange unit="entry">1339 (no. 2)</citedRange>
+                     <citedRange unit="entry">1338 (no. 2)</citedRange>
                      <textLang>English</textLang>
                      <term>łan</term>
                   </bibl>
@@ -2342,18 +2350,18 @@
                   </label>
                </event>
                <event type="reference" source="#bib103-24">
-                  <desc xml:lang="en">Event mentioned by an Armenian scribe.</desc>
+                  <desc xml:lang="en">Event mentioned by <persName ref="https://medievalmideast.org/person/13263">Melk‘isēdek</persName>.</desc>
                   <label type="event">
-                     <date type="point" when="1339">1339</date>
+                     <date type="point" when="1339">1338</date>
                   </label>
                   <label type="composition">
-                     <date type="point" when="1339">1339</date>
+                     <date type="point" when="1339">1338</date>
                   </label>
                   <label type="manuscript">
-                     <date type="point" when="1339">1339</date>
+                     <date type="point" when="1339">1338</date>
                   </label>
                   <label type="edition">
-                     <date type="point" when=""/>
+                     <date type="point" when="1950">1950</date>
                   </label>
                </event>
                <event type="reference" source="#bib103-25">

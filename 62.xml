@@ -45,7 +45,7 @@
                                             Distributed under a Creative Commons Attribution 3.0 Unported License
                                         </licence>
             </availability>
-            <date>2021-09-16-05:00</date>
+            <date>2021-11-10-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -1633,13 +1633,13 @@
                <event type="reference" source="#bib62-22">
                   <desc xml:lang="en">Event mentioned by <persName ref="https://medievalmideast.org/person/13160">Dawit‘ (Merdints‘i)</persName>.</desc>
                   <label type="event">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1450" notAfter="1457">1450-1457</date>
                   </label>
                   <label type="composition">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1452" notAfter="1457">1452-1457</date>
                   </label>
                   <label type="manuscript">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1452" notAfter="1457">1452-1457</date>
                   </label>
                   <label type="edition">
                      <date type="point" when="1956">1956</date>

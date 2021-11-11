@@ -45,7 +45,7 @@
                                             Distributed under a Creative Commons Attribution 3.0 Unported License
                                         </licence>
             </availability>
-            <date>2021-09-16-05:00</date>
+            <date>2021-11-10-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,6 +61,8 @@
          </classDecl>
       </encodingDesc>
       <revisionDesc>
+         <change who="http://medievalmideast.org/editors.xml#tcarlson"
+            when="2021-11-10-05:00">CORRECTED: Sanjian event dates</change>
          <change who="http://medievalmideast.org/editors.xml#tcarlson"
                  when="2021-09-16-05:00">ADDED: Sanjian names and events</change>
          <change who="https://medievalmideast.org/editors.xml#tcarlson"
@@ -628,13 +630,13 @@
                <event type="reference" source="#bib113-12">
                   <desc xml:lang="en">Event mentioned by <persName ref="https://medievalmideast.org/person/13160">Dawit‘ (Merdints‘i)</persName>.</desc>
                   <label type="event">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1450" notAfter="1457">1450-1457</date>
                   </label>
                   <label type="composition">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1452" notAfter="1457">1452-1457</date>
                   </label>
                   <label type="manuscript">
-                     <date type="point" when="1452">1452</date>
+                     <date type="between" notBefore="1452" notAfter="1457">1452-1457</date>
                   </label>
                   <label type="edition">
                      <date type="point" when="1956">1956</date>
@@ -649,7 +651,7 @@
                      <date type="circa" notBefore="1453" notAfter="1500">late 15th C</date>
                   </label>
                   <label type="manuscript">
-                     <date type="point" when="1660">1660</date>
+                     <date type="point" when="1617">1617</date>
                   </label>
                   <label type="edition">
                      <date type="point" when="1957">1957</date>

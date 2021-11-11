@@ -45,7 +45,7 @@
                                             Distributed under a Creative Commons Attribution 3.0 Unported License
                                         </licence>
             </availability>
-            <date>2021-09-16-05:00</date>
+            <date>2021-11-10-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -61,6 +61,8 @@
          </classDecl>
       </encodingDesc>
       <revisionDesc>
+         <change who="http://medievalmideast.org/editors.xml#tcarlson"
+            when="2021-11-10-05:00">CORRECTED: Sanjian event dates</change>
          <change who="http://medievalmideast.org/editors.xml#tcarlson"
                  when="2021-09-16-05:00">ADDED: Sanjian names and events</change>
          <change who="https://medievalmideast.org/editors.xml#tcarlson"
@@ -111,7 +113,7 @@
                      <date type="circa" notBefore="1453" notAfter="1500">late 15th C</date>
                   </label>
                   <label type="manuscript">
-                     <date type="point" when="1594">1594</date>
+                     <date type="point" when="1556">1556</date>
                   </label>
                   <label type="edition">
                      <date type="point" when="1957">1957</date>
